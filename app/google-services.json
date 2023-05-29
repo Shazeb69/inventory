@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "489365115896",
+    "firebase_url": "https://invms-79741-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "invms-79741",
+    "storage_bucket": "invms-79741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489365115896:android:04ab82123a8e9391813c0d",
+        "android_client_info": {
+          "package_name": "com.example.ims"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXT5HdhPijYzvONPTcCjPS0D6Q5AJy7HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
